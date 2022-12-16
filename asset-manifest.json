@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/utor-test/static/css/main.860d5478.css",
+    "main.js": "/utor-test/static/js/main.19388aa6.js",
+    "index.html": "/utor-test/index.html",
+    "main.860d5478.css.map": "/utor-test/static/css/main.860d5478.css.map",
+    "main.19388aa6.js.map": "/utor-test/static/js/main.19388aa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.860d5478.css",
+    "static/js/main.19388aa6.js"
+  ]
+}
